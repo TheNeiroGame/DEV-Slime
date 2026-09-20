@@ -216,6 +216,7 @@
     sprite: Clothing/Hands/Gloves/robohands.rsi
   - type: Clothing
     sprite: Clothing/Hands/Gloves/robohands.rsi
+  - type: Insulated
   - type: Fiber
     fiberMaterial: fibers-leather
     fiberColor: fibers-black
